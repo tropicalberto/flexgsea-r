@@ -28,6 +28,10 @@ help('flexgsea', 'flexgsea')
 
 This package was called ggsea before.
 
+Development branch 
+=====================================
+This branch is intended to extend the package to allow permutations on paired analysis 
+
 References
 ----------
 
